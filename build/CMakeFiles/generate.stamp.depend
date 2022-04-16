@@ -1,0 +1,43 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindBZip2.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/SelectLibraryConfigurations.cmake
+D:/Work/TableInsight/deps/pcre2/CMakeLists.txt
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/3.23.0/CMakeCCompiler.cmake
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/3.23.0/CMakeRCCompiler.cmake
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/3.23.0/CMakeSystem.cmake
+D:/Work/TableInsight/deps/pcre2/cmake/FindEditline.cmake
+D:/Work/TableInsight/deps/pcre2/cmake/FindPackageHandleStandardArgs.cmake
+D:/Work/TableInsight/deps/pcre2/cmake/FindReadline.cmake
+D:/Work/TableInsight/deps/pcre2/cmake/pcre2-config-version.cmake.in
+D:/Work/TableInsight/deps/pcre2/cmake/pcre2-config.cmake.in
+D:/Work/TableInsight/deps/pcre2/config-cmake.h.in
+D:/Work/TableInsight/deps/pcre2/libpcre2-8.pc.in
+D:/Work/TableInsight/deps/pcre2/libpcre2-posix.pc.in
+D:/Work/TableInsight/deps/pcre2/pcre2-config.in
+D:/Work/TableInsight/deps/pcre2/src/pcre2.h.in
+D:/Work/TableInsight/deps/pcre2/src/pcre2_chartables.c.dist

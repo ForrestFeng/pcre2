@@ -1,0 +1,9 @@
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/pcre2-8-static.dir
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/pcre2-posix-static.dir
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/pcre2grep.dir
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/pcre2test.dir
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/pcre2_jit_test.dir
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/RUN_TESTS.dir
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/INSTALL.dir
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/ALL_BUILD.dir
+D:/Work/TableInsight/deps/pcre2/build/CMakeFiles/ZERO_CHECK.dir
