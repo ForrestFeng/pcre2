@@ -76,3 +76,11 @@ src/pcre2_chartables.c
 src/stamp-h1
 
 # End
+/build/.vs/
+/build/Debug/
+/build/Release/
+Debug/
+/build/testout8/
+/build/testoutjit8/
+/build/Testing/
+/build/test*
